@@ -1,1 +1,2 @@
-# Curso em Vídeo - JavaScript
+# 👨🏾‍💻 Training JavaScript
+
