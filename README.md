@@ -1,6 +1,12 @@
 # 👨🏾‍💻 Training JavaScript
 
-Os arquivos presentes na pasta "material-CursoEmVideo" foi retirado através [desse repositório](https://github.com/gustavoguanabara/javascript) com fins de estudo pessoal. 
+Os arquivos presentes na pasta "material-CursoEmVideo" foi retirado através [desse repositório](https://github.com/gustavoguanabara/javascript) com fins de estudo pessoal.
+
+Acesse o material em PDF, analise o código disponibilizado para cada exercício e veja-os funcionando em execução direta via repositório GitHub.
+
+* [Acesse os PDFs das aulas clicando aqui](https://github.com/gustavoguanabara/javascript/tree/master/aulas-pdf)
+* [Execute os exercícios aqui](https://gustavoguanabara.github.io/javascript/exercicios/index.html)
+* [Resolva os desafios de programação JS aqui](https://github.com/gustavoguanabara/javascript/tree/master/desafios)
 
 Já os arquivos presente na pasta "material-Platzi" foi retirado através do material disponibilizado pelo professor [Luis Rudge](https://www.linkedin.com/in/luisrudge/) professor e instrutor do curso de "Introdução ao JavaScript" da [Platzi Brasil](https://www.linkedin.com/showcase/platzibr/).
 
