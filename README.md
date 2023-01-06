@@ -1,10 +1,9 @@
 # 👨🏾‍💻 Training JavaScript
 
-Os arquivos presentes na pasta "material-CursoEmVideo" foram retirados [desse repositório](https://github.com/gustavoguanabara/javascript) com fins de estudo pessoal.
+Os arquivos presentes na pasta "cursoEmVideo-javascript" foram baseados [nesse repositório](https://github.com/gustavoguanabara/javascript) com o objetivo de praticar o javascript básico. Para saber mais sobre esses exercícios, acesse abaixo:
 
-* [Acesse os PDFs das aulas clicando aqui](https://github.com/gustavoguanabara/javascript/tree/master/aulas-pdf)
-* [Execute os exercícios aqui](https://gustavoguanabara.github.io/javascript/exercicios/index.html)
-* [Resolva os desafios de programação JS aqui](https://github.com/gustavoguanabara/javascript/tree/master/desafios)
+* [A lista dos Exercícios que foram resolvidos](https://gustavoguanabara.github.io/javascript/exercicios/index.html)
+* [A lista dos Desafios que foram resolvidos](https://github.com/gustavoguanabara/javascript/tree/master/desafios)
 
 Já os arquivos presente na pasta "material-Platzi" foram retirados do material disponibilizado pelo professor [Luis Rudge](https://www.linkedin.com/in/luisrudge/) professor e instrutor do curso de "Introdução ao JavaScript" da [Platzi Brasil](https://www.linkedin.com/showcase/platzibr/).
 
@@ -37,10 +36,12 @@ Mayor de edad
 Dinero ahorrado
 Deudas
 3️⃣ Traduce a código JavaScript las variables del ejemplo anterior y deja tu código en los comentarios.
+
 4️⃣ Calcula e imprime las siguientes variables a partir de las variables del ejemplo anterior:
 Nombre completo (nombre y apellido)
 Dinero real (dinero ahorrado menos deudas)
 Funciones
+
 1️⃣ Responde las siguientes preguntas en la sección de comentarios:
 ¿Qué es una función?
 ¿Cuándo me sirve usar una función en mi código?
