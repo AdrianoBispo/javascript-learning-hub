@@ -5,4 +5,4 @@ Os arquivos presentes na pasta "cursoEmVideo-javascript" foram baseados [nesse r
 - [A lista dos Exercícios que foram resolvidos](https://gustavoguanabara.github.io/javascript/exercicios/index.html)
 - [A lista dos Desafios que foram resolvidos](https://github.com/gustavoguanabara/javascript/tree/master/desafios)
 
-Já o diretório 'extras' foram exercícios realizados por mim através do conhecimento de javascript obtido.
+Já o diretório 'extras' foram exercícios realizados para pôr em prática o conhecimento de javascript obtido.
