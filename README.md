@@ -5,3 +5,7 @@ Os arquivos presentes na pasta "desafios-resolvidos" foram baseados [nesse repos
 - [A lista dos Desafios que foram resolvidos](https://github.com/gustavoguanabara/javascript/tree/master/desafios)
 
 Já o diretório 'extras' foram exercícios realizados para pôr em prática o conhecimento de javascript obtido.
+
+Testes seus cohecimentos de JavaScript acessando aos seguintes diretórios:
+
+- [Perguntas e Desafios Lógicos]()
