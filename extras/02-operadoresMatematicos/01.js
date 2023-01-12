@@ -1,7 +1,4 @@
- console.log(`
-## Adição e subtração
-
-`);
+// Adição e Subtração
 
 /*
 console.log('simples');

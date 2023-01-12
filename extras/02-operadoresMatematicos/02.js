@@ -1,7 +1,4 @@
-console.log(`
-## Multiplicação, divisão e módulo
-
-`);
+// Multiplicação e Divisão
 
 console.log(2 * 3);
 console.log(10 / 5);

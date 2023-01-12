@@ -1,10 +1,4 @@
-console.log(`
-## Comparação de valores
-
-- igualdade
-- diferença
-- maior / menor
-`);
+// Comparação de Valores: Igualdade, Diferença, Maior/Menor
 
 console.log("igualdade");
 console.log(3 == "3");
