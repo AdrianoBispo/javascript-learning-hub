@@ -1,23 +1,23 @@
 // Comparação de Valores: Igualdade, Diferença, Maior/Menor
 
-console.log("igualdade");
+console.log("Igualdade");
 console.log(3 == "3");
 console.log(3 === "3");
 console.log("a" == "A");
 console.log("a" === "A");
 
-console.log("diferença");
+console.log("Diferença");
 console.log(3 != "3");
 console.log(3 !== "3");
 console.log("a" !== "A");
 
-console.log("maior");
+console.log("Maior");
 console.log(3 > 1);
 console.log(3 > 4);
 console.log(3 > 3);
 console.log(3 >= 3);
 
-console.log("menor");
+console.log("Menor");
 console.log(3 < 1);
 console.log(3 < 4);
 console.log(3 < 3);
@@ -26,6 +26,7 @@ console.log(3 <= 3);
 
 const numeroMaximoDeAlunos = 5;
 const numeroDeAlunos = 6;
+
 if (numeroDeAlunos > numeroMaximoDeAlunos) {
   console.log('Número máximo de alunos extrapolado');
 } else {
