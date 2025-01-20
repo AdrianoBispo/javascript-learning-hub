@@ -2,19 +2,19 @@
 Bem-vindo ao **JavaScript Learning Hub**! Este repositório é dedicado a quem deseja aprender Javascript iniciando do básico e indo até o nível mais avançado por meio de exemplos e exercícios práticos elaborados com à ajuda do [ChatGPT](https://chatgpt.com/). O objetivo é facilitar o aprendizado e oferecer recursos organizados para consulta e prática.
 
 ## Estrutura do Repositório
-Este repositório foi projetado para organizar exemplos e exercícios de JavaScript de maneira clara, com base nos níveis de conhecimento (Básico, Intermediário e Avançado). Segue a estrutura proposta:
+Este repositório foi projetado para organizar exemplos e exercícios de Javascript de maneira clara, com base nos níveis de conhecimento (Básico, Intermediário e Avançado). Segue a estrutura proposta:
 
 ### Básico
 Ideal para quem está começando. Aqui o foco é aprender os fundamentos da linguagem e os conceitos essenciais.
 
 |         Tópico         |                  Descrição                  |               Diretório              |
 |------------------------|---------------------------------------------|--------------------------------------|
-| **Sintaxe Básica**     | Conheça a estrutura básica de um programa em JavaScript e seus tipos de dados(``strings``, ``números``, ``booleans``, ``null``, ``undefined``); Aprenda a declarar as variáveis em Javascript(``let``, ``var``, ``const``) como e quando utilizar cada; aprenda sobre os Operadores: ``aritméticos``, de ``comparação``, ``lógicos`` e de ``atribuição``.                   | [``sintaxe-basica``](#)                |
+| **Sintaxe Básica**     | Conheça a estrutura básica de um programa em Javascript e seus tipos de dados(``strings``, ``números``, ``booleans``, ``null``, ``undefined``); Aprenda a declarar as variáveis em Javascript(``let``, ``var``, ``const``) como e quando utilizar cada; aprenda sobre os Operadores: ``aritméticos``, de ``comparação``, ``lógicos`` e de ``atribuição``.                   | [``sintaxe-basica``](#)                |
 | **Controle de Fluxo**  | Uso de `if`, `else`, e `switch` para controle de fluxo e aplicação de laços de repetição `for`, `while`, e `do-while`.                            | [``controle-de-fluxo``](#)                 |
-| **Manipulação de Strings** | Métodos como `map()`, `filter()`, `reduce()`. | [``manipulando-strings``](#)  |
+| **Manipulação de Strings** | Métodos como `toUpperCase()`, `length()`, `includes()`. | [``manipulacao-strings``](#)  |
 | **Funções(Básico ao Avançado)**  | Aprenda a criar e chamar funções em Javascript através de parâmetros e valores de retorno; conheça as funções anônimas e aprenda utilizá-las; compreenda a diferença entre ``Escopo Global`` vs ``Escopo Local`` e aprenda o ``Hoisting`` básico; aprenda sobre funções internas e escopo léxico e sobre funções de callbacks; conheça Funções de Ordem Superior(funções que recebem outras funções como argumento) e aprenda a utilizá-las.   | [``funcoes``](#)  |
 | **Manipulação do DOM** | Aprenda a selecionar elementos do DOM utilizando: ``getElementsByTagName``, ``getElementsByClassName``, ``getElementById``, ``querySelector``, ``querySelectorAll``; aprenda a modificá-los utilizando: ``textContent``, ``innerHTML``, ``style``, etc; aprenda os principais eventos: ``click``, ``mouseover``, etc. | [``manipulacao-DOM``](#) | 
-| **Introdução ao Debugging** | Aprenda a utilizar os métodos disponíveis no objeto ``console`` através de exemplos de uso. | [``debugando-console``](#) |
+| **Introdução ao Debugging** | Aprenda a utilizar os métodos disponíveis no objeto ``console`` através de exemplos de uso. | [``console-debugger``](#) |
 
 
 ### Intermediário
@@ -24,7 +24,7 @@ Aqui você aprofunda nos conceitos e começa a trabalhar com recursos mais moder
 |------------------------|---------------------------------------------|--------------------------------------|
 
 | **Manipulação do DOM Avançada**  | Aprenda sobre Eventos e Delegação de Eventos; aprenda a manipular formulários; conheça o BOM (Browser Object Model).  | [``manipulacao-dom-avancada``](#)  |
-| **Manipulação de Arrays**  | Métodos como `map()`, `filter()`, `reduce()`.  | [``manipulando-arrays``](#)  |
+| **Manipulação de Arrays**  | Métodos como `map()`, `filter()`, `reduce()`.  | [``manipulacao-arrays``](#)  |
 | **Promises e Asyn/Await**  | Trabalhando com promessas e código assíncrono. | [``programacao-assincrona``](#) |
 | **Objetos**  | Como criar e manipular objetos.   |  [``objetos``](#)                 |
 | **Destructuring**   | Desestruturação de arrays e objetos.                   | [``destructuring``](#)  |
