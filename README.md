@@ -1,7 +1,9 @@
 # JavaScript Learning Hub
+
 Bem-vindo ao **JavaScript Learning Hub**! Este repositório é dedicado a quem deseja aprender Javascript iniciando do básico e indo até o nível mais avançado por meio de exemplos e exercícios práticos elaborados com à ajuda do [ChatGPT](https://chatgpt.com/). O objetivo é facilitar o aprendizado e oferecer recursos organizados para consulta e prática.
 
 ## Estrutura do Repositório
+
 Este repositório foi projetado para organizar exemplos e exercícios de Javascript de maneira clara, com base nos níveis de conhecimento (Básico, Intermediário e Avançado). Segue a estrutura proposta:
 
 <details>
@@ -13,13 +15,13 @@ Ideal para quem está começando. Aqui o foco é aprender os fundamentos da ling
 
 |         Tópico         |                  Descrição                  |               Diretório              |
 |------------------------|---------------------------------------------|--------------------------------------|
-| **Tipos de Dados**     | Conheça a estrutura básica de um programa em Javascript e seus tipos de dados(``strings``, ``números``, ``booleans``, ``null``, ``undefined``);   | [``tipos-de-dados``](#)         |
-| **Variáveis**  | Aprenda a declarar as variáveis em Javascript(``let``, ``var``, ``const``) como e quando utilizar cada um deles.                           | [``variaveis``](#)                 |
-| **Operadores**  | Aprenda a utilizar os Operadores Javascript(``aritméticos``, de ``comparação``, ``lógicos`` e de ``atribuição``). | [``operadores``](#) |
-| **Controle de Fluxo**  | Uso de `if`, `else`, e `switch` para controle de fluxo e aplicação de laços de repetição `for`, `while`, e `do-while`.                            | [``controle-de-fluxo``](#)                 |
-| **Funções no Javascript**  | Aprenda a criar e chamar funções em Javascript através de parâmetros e valores de retorno; conheça as funções anônimas e aprenda utilizá-las; compreenda a diferença entre ``Escopo Global`` vs ``Escopo Local`` e entenda sobre o ``Hoisting`` básico; aprenda sobre funções internas e escopo léxico e sobre funções de callbacks; conheça Funções de Ordem Superior(funções que recebem outras funções como argumento) e aprenda a utilizá-las.   | [``funcoes``](#)  |
-| **Manipulação do DOM** | Aprenda a selecionar elementos do DOM utilizando: ``getElementsByTagName``, ``getElementsByClassName``, ``getElementById``, ``querySelector``, ``querySelectorAll``; aprenda a modificá-los utilizando: ``textContent``, ``innerHTML``, ``style``, etc; aprenda os principais eventos: ``click``, ``mouseover``, etc. | [``manipulacao-DOM``](#) | 
-| **Introdução ao Debugging** | Aprenda a utilizar os métodos disponíveis no objeto ``console`` através de exemplos de uso. | [``console-debugger``](#) |
+| **Tipos de Dados**     | Conheça a estrutura básica de um programa em Javascript e seus tipos de dados(``strings``, ``números``, ``booleans``, ``null``, ``undefined``);   | [``01-tipos-de-dados``](/fundamentos/01-tipos-de-dados/README.md)         |
+| **Variáveis**  | Aprenda a declarar as variáveis em Javascript(``let``, ``var``, ``const``) como e quando utilizar cada um deles.                           | [``02-variaveis``](/fundamentos/02-variaveis/README.md)                 |
+| **Operadores**  | Aprenda a utilizar os Operadores Javascript(``aritméticos``, de ``comparação``, ``lógicos`` e de ``atribuição``). | [``03-operadores``](/fundamentos/03-operadores/README.md) |
+| **Controle de Fluxo**  | Uso de `if`, `else`, e `switch` para controle de fluxo e aplicação de laços de repetição `for`, `while`, e `do-while`.                            | [``04-controle-de-fluxo``](/fundamentos/04-controle-de-fluxo/README.md)                 |
+| **Funções no Javascript**  | Aprenda a criar e chamar funções em Javascript através de parâmetros e valores de retorno; conheça as funções anônimas e aprenda utilizá-las; compreenda a diferença entre ``Escopo Global`` vs ``Escopo Local`` e entenda sobre o ``Hoisting`` básico; aprenda sobre funções internas e escopo léxico e sobre funções de callbacks; conheça Funções de Ordem Superior(funções que recebem outras funções como argumento) e aprenda a utilizá-las.   | [``05-funcoes``](/fundamentos/05-funcoes/README.md)  |
+| **Manipulação do DOM** | Aprenda a selecionar elementos do DOM utilizando: ``getElementsByTagName``, ``getElementsByClassName``, ``getElementById``, ``querySelector``, ``querySelectorAll``; aprenda a modificá-los utilizando: ``textContent``, ``innerHTML``, ``style``, etc; aprenda os principais eventos: ``click``, ``mouseover``, etc. | [``06-manipulacao-dom``](/fundamentos/06-manipulacao-dom/README.md) | 
+| **Introdução ao Debugging** | Aprenda a utilizar os métodos disponíveis no objeto ``console`` através de exemplos de uso. | [``07-console-debugger``](/fundamentos/07-console-debugger/README.md) |
 
 </details>
 
@@ -44,6 +46,7 @@ Aqui você aprofunda nos conceitos e começa a trabalhar com recursos mais moder
 </details>
 
 ## Próximos Passos
+
 Neste nível, você se torna capaz de resolver problemas complexos e trabalhar com aplicações reais.
 
 <details>
