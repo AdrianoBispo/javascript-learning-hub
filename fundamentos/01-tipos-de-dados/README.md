@@ -1,4 +1,4 @@
-# Tipos de Dados em JavaScript: Um Guia Completo
+# Tipos de Dados em JavaScript
 
 JavaScript é uma linguagem de programação dinamicamente tipada, o que significa que o tipo de uma variável é determinado em tempo de execução, com base no valor que ela armazena. Essa flexibilidade é uma das características que tornam JavaScript tão popular.
 
@@ -48,6 +48,6 @@ function saudacao(nome) { // Tipo Function
 - **Conversão de Tipos:** JavaScript permite converter um tipo de dado em outro, mas é importante entender as implicações dessas conversões.
 - **Depuração:** Conhecer os tipos de dados ajuda a identificar e corrigir erros em seu código.
 
-### Em resumo:
+## Em resumo:
 
 Compreender os tipos de dados em JavaScript é fundamental para escrever códigos de forma eficaz e eficiente. Ao entender a diferença entre tipos primitivos e tipos por referência, você poderá escrever código mais limpo e evitar erros comuns.

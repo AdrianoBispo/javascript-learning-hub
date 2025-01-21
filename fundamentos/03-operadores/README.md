@@ -1,4 +1,4 @@
-# Operadores em JavaScript: Uma Visão Geral
+# Operadores em JavaScript
 
 Os operadores em JavaScript são símbolos especiais que permitem realizar diversas operações com valores, como números, strings e outros tipos de dados. Eles são essenciais para construir expressões e realizar cálculos em seus programas.
 
@@ -73,7 +73,7 @@ x += 2; // x agora vale 12
 **Lógicos:** Para combinar condições e criar expressões mais complexas.
 **Atribuição:** Para atribuir valores a variáveis.
 
-### Observações:
+## Observações:
 
 A ordem de precedência dos operadores é importante, assim como em matemática. Você pode usar parênteses para alterar a ordem de avaliação. A conversão de tipos implícita pode ocorrer em algumas operações, como quando você compara um número com uma string.
 
