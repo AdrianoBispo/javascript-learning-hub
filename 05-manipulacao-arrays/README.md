@@ -427,12 +427,94 @@ const arr = [1, 2, 3];
 const newArr = arr.with(1, 5); // [1, 5, 3]
 ```
 
-## Pecorrendo uma Array
+## Pecorrendo uma Array: Principais Formas
 
-- **Iteração:**
-  - ``for``: Percorre todos os elementos do array.
-  - ``for...of``: Uma forma mais moderna de iterar sobre os elementos de um array.
-  - ``forEach()``: Executa uma função para cada elemento do array.
+## 1. ``for`` Clássico
+
+Útil quando você precisa acessar elementos por índice ou manipular o índice diretamente.
+
+### Exemplo:
+
+```Javascript
+
+const array = [1, 2, 3, 4, 5];
+
+for (let i = 0; i < array.length; i++) {
+  console.log(array[i]);
+}
+```
+
+## 2. ``for...of``
+
+Mais moderno e usado quando você só quer acessar os valores dos elementos.
+
+### Exemplo:
+
+```Javascript
+
+const array = [1, 2, 3, 4, 5];
+
+for (const value of array) {
+  console.log(value);
+}
+
+```
+
+
+## 3. ``forEach``
+
+Executa uma função para cada elemento do array. Mais legível, mas não pode ser usado com ``break`` ou ``continue``.
+
+
+### Exemplo:
+
+```Javascript
+
+const array = [1, 2, 3, 4, 5];
+
+array.forEach((value, index) => {
+  console.log(`Índice: ${index}, Valor: ${value}`);
+});
+
+```
+
+### Outras formas menos comum
+
+## 4. ``while``
+
+Permite percorrer o array com controle total, mas é menos comum.
+
+### Exemplo:
+
+```Javascript
+
+const array = [1, 2, 3, 4, 5];
+
+let i = 0;
+while (i < array.length) {
+  console.log(array[i]);
+  i++;
+}
+
+```
+
+## 5. ``do...while``
+
+Semelhante ao ``while``, mas garante que o bloco será executado pelo menos uma vez.
+
+### Exemplo:
+
+```Javascript
+
+const array = [1, 2, 3, 4, 5];
+
+let i = 0;
+while (i < array.length) {
+  console.log(array[i]);
+  i++;
+}
+
+```
 
 ## Desestruturando Array
 
