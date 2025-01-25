@@ -23,9 +23,9 @@ Bem-vindo ao **JavaScript Learning Hub**! Este repositório é dedicado a quem d
 | [``08-programacao-assincrona``](/javascript-avancado/08-programacao-assincrona/README.md) | Trabalhando com promessas e código assíncrono. |
 
 <details>
-<summary><h2>Próximos Passos: Avançando no Desenvolvimento Front-End com React</h2></summary>
+<summary><h3>Próximos Passos: Avançando no Desenvolvimento Front-End com React</h3></summary>
 
-### Conhecendo o React
+#### Conhecendo o React
 
 - Configuração de ambiente (Vite ou Create React App);
 - Componentes funcionais e class-based;
@@ -36,7 +36,7 @@ Bem-vindo ao **JavaScript Learning Hub**! Este repositório é dedicado a quem d
   - Context API.
   - Redux (opcional para projetos mais complexos).
 
-### Avançando com React
+#### Avançando com React
 
 - Renderização condicional e listas.
 - Refs e manipulação direta do DOM.
@@ -47,7 +47,7 @@ Bem-vindo ao **JavaScript Learning Hub**! Este repositório é dedicado a quem d
   - React.memo.
   - Suspense.
 
-### Projetos Práticos
+#### Projetos Práticos
 
 - Todo List com Context API.
 - Aplicação de galeria de fotos consumindo APIs.
@@ -56,9 +56,9 @@ Bem-vindo ao **JavaScript Learning Hub**! Este repositório é dedicado a quem d
 </details>
 
 <details>
-<summary><h2>Próximos Passos: Avançando no Desenvolvimento Front-End com Angular</h2></summary>
+<summary><h3>Próximos Passos: Avançando no Desenvolvimento Front-End com Angular</h3></summary>
 
-### Conhecendo o Angular
+#### Conhecendo o Angular
 
 - Configuração de ambiente com Angular CLI.
 - Estrutura de um projeto Angular.
@@ -70,7 +70,7 @@ Bem-vindo ao **JavaScript Learning Hub**! Este repositório é dedicado a quem d
 - Roteamento e Navegação.
 - Comunicação entre componentes (Input, Output).
 
-### Avançando com Angular
+#### Avançando com Angular
 
 - Observables e RxJS.
 - Formulários:
@@ -80,7 +80,7 @@ Bem-vindo ao **JavaScript Learning Hub**! Este repositório é dedicado a quem d
 - Lazy loading e modularização.
 - Testes com Jasmine e Karma.
 
-### Projetos Práticos
+#### Projetos Práticos
 
 - Aplicação CRUD de cadastro de usuários.
 - E-commerce básico com carrinho de compras.
@@ -89,9 +89,9 @@ Bem-vindo ao **JavaScript Learning Hub**! Este repositório é dedicado a quem d
 </details>
 
 <details>
-<summary><h2>Próximos Passos: Avançando no Desenvolvimento Front-End com Vue.js</h2></summary>
+<summary><h3>Próximos Passos: Avançando no Desenvolvimento Front-End com Vue.js</h3></summary>
 
-### Conhecendo o Vue.js
+#### Conhecendo o Vue.js
 
 - Configuração de ambiente com Vue CLI ou Vite.
 - Introdução ao Vue:
@@ -103,7 +103,7 @@ Bem-vindo ao **JavaScript Learning Hub**! Este repositório é dedicado a quem d
 - Vue Router para navegação SPA.
 - Vuex (ou Pinia) para gerenciamento de estado.
 
-### Avançando com Vue.js
+#### Avançando com Vue.js
 
 - Slots e Render Functions.
 - Reatividade com ``ref`` e ``reactive``.
@@ -112,7 +112,7 @@ Bem-vindo ao **JavaScript Learning Hub**! Este repositório é dedicado a quem d
 - Desempenho e otimização:
   - Lazy loading e Code Splitting.
 
-### Projetos Práticos
+#### Projetos Práticos
 
 - Galeria de imagens com filtros.
 - Sistema de blog com Vue Router e Vuex.
@@ -121,9 +121,9 @@ Bem-vindo ao **JavaScript Learning Hub**! Este repositório é dedicado a quem d
 </details>
 
 <details>
-<summary><h2>Próximos Passos: Avançando no Desenvolvimento Back-End com Node.js</h2></summary>
+<summary><h3>Próximos Passos: Avançando no Desenvolvimento Back-End com Node.js</h3></summary>
 
-### Conhecendo o Node.js
+#### Conhecendo o Node.js
 
 - Configuração de ambiente Node.js.
 - Módulos e pacotes com NPM.
@@ -131,7 +131,7 @@ Bem-vindo ao **JavaScript Learning Hub**! Este repositório é dedicado a quem d
 - Middleware no Express.
 - Operações de CRUD.
 
-### Avançando com o Node.js
+#### Avançando com o Node.js
 
 - Banco de dados:
   - Relacional: PostgreSQL/MySQL com Sequelize.
@@ -140,7 +140,7 @@ Bem-vindo ao **JavaScript Learning Hub**! Este repositório é dedicado a quem d
 - Upload de arquivos com ``Multer``.
 - Websockets com ``Socket.IO``.
 
-### Projetos Práticos
+#### Projetos Práticos
 
 - API RESTful para gestão de tarefas.
 - Chat em tempo real com Websockets.
@@ -149,9 +149,9 @@ Bem-vindo ao **JavaScript Learning Hub**! Este repositório é dedicado a quem d
 </details>
 
 <details>
-<summary><h2>Próximos Passos: Avançando no Desenvolvimento Full Stack com Next.js</h2></summary>
+<summary><h3>Próximos Passos: Avançando no Desenvolvimento Full Stack com Next.js</h3></summary>
 
-### Conhecendo o Next.js
+#### Conhecendo o Next.js
 
 - Introdução ao Next.js.
 - Páginas e rotas dinâmicas.
@@ -159,14 +159,14 @@ Bem-vindo ao **JavaScript Learning Hub**! Este repositório é dedicado a quem d
 - API Routes para criação de endpoints.
 - Integração com bibliotecas de estilo (TailwindCSS, Styled Components).
 
-### Avançando com o Next.js
+#### Avançando com o Next.js
 
 - Construção de APIs RESTful com Next.js.
 - Banco de dados:
   - Prisma para integração com PostgreSQL/MySQL.
   - MongoDB com Mongoose.
 
-### Projetos Práticos
+#### Projetos Práticos
 
 - Projetos Práticos
 - Sistema de blog com SSR.
