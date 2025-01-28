@@ -1,4 +1,4 @@
-# Declarações de Variáveis e Tipos de Dados
+# Introdução ao Javascript: Declarações de Variáveis e Tipos de Dados
 
 Este capítulo trata sobre a sintaxe básica do JavaScript, declarações de variáveis, tipos de dados e literais.
 
@@ -304,3 +304,28 @@ Você usa literais para representar valores em JavaScript. Estes são valores fi
 - [``String literals``](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Grammar_and_types#string_literals)
 
 </details>
+
+<details>
+<summary><h2>Expressões e Operadores</h2></summary>
+
+Este artigo descreve expressões e operadores de JavaScript, incluindo operadores de atribuição, comparação, aritméticos, bit a bit, lógicos, de strings e especiais.
+
+### Operadores
+
+- [Operadores de atribuição](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Expressions_and_operators#operador_atribuicao)
+- [Operadores de comparação](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Expressions_and_operators#operador_comparacao)
+- [Operadores aritméticos](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Expressions_and_operators#operadores_aritmeticos)
+- [Operadores bit a bit](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Expressions_and_operators#operadores_bit_a_bit)
+- [Operadores lógicos](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Expressions_and_operators#operadores_logicos)
+- [Operadores de string](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Expressions_and_operators#operadores_string)
+- [Operador condicional (ternário)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Expressions_and_operators#operador_condicional_ternario)
+- [Operador vírgula](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Expressions_and_operators#operador_virgula)
+- [Operadores unário](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Expressions_and_operators#operadores_unario)
+- [Operadores relacionais](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Expressions_and_operators#operador_virgula)
+
+### Precedência de Operadores
+
+[Precedêcia de Operadores](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Operators/Operator_precedence)
+
+</details>
+

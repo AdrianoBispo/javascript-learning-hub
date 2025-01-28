@@ -6,7 +6,7 @@ Bem-vindo ao **JavaScript Learning Hub**! Este repositório é dedicado a quem d
 
 |                  Diretório                   |                        Descrição                            |
 |----------------------------------------------|-------------------------------------------------------------|
-| [``01-tipos-de-dados``](/fundamentos/01-tipos-de-dados/README.md) | Conheça a estrutura básica de um programa em Javascript e seus tipos de dados(``strings``, ``números``, ``booleans``, ``null``, ``undefined``); | 
+| [``01-introducao``](/01-introducao/README.md) | Conheça a estrutura básica de um programa em Javascript e seus tipos de dados(``strings``, ``números``, ``booleans``, ``null``, ``undefined``); | 
 | [``02-variaveis``](/fundamentos/02-variaveis/README.md) | Aprenda a declarar as variáveis em Javascript(``let``, ``var``, ``const``) como e quando utilizar cada um deles. |                        
 | [``03-operadores``](/fundamentos/03-operadores/README.md) | Aprenda a utilizar os Operadores Javascript(``aritméticos``, de ``comparação``, ``lógicos`` e de ``atribuição``). | 
 | [``04-controle-de-fluxo``](/fundamentos/04-controle-de-fluxo/README.md) | Uso de `if`, `else`, e `switch` para controle de fluxo e aplicação de laços de repetição `for`, `while`, e `do-while`. |
